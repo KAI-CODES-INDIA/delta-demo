@@ -1,2 +1,2 @@
 # delta-demo
-information
+information about projects
